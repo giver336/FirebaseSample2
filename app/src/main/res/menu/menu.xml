@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:title="Copy" android:id="@+id/action_copy"></item>
+            <item android:title="Paste" android:id="@+id/action_paste"></item>
+            <item android:title="Replace" android:id="@+id/action_replace"></item>
+    </menu>
+</menu>
